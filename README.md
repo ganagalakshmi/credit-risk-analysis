@@ -7,7 +7,7 @@
 
 A machine learning-powered web app that predicts credit default risk, built using Streamlit and deployed on Streamlit Cloud.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-streamlit-cloud-url.streamlit.app)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://credit-risk-analysis-app.streamlit.app/)
 [![GitHub stars](https://img.shields.io/github/stars/ganagalakshmi/credit-risk-analysis?style=social)](https://github.com/ganagalakshmi/credit-risk-analysis)
 
 ## ✨ Features
@@ -38,14 +38,13 @@ streamlit run app.py
 Visit http://localhost:8501 in your browser.
 
 📸 Screenshots
-Input Form	                Risk Prediction
-https://assets/app-main.png	https://assets/app-result.png
+Input Form	                
+https://assets/app-main.png
+Risk Prediction
+https://assets/app-result.png
 
 🌐 Deployment
-Deployed on Streamlit Cloud:
-Fork this repository
-Connect to Streamlit Cloud
-Select repository and app.py
+Deployed on Streamlit Cloud: https://credit-risk-analysis-app.streamlit.app/
 
 📜 License
 Distributed under the MIT License. See LICENSE for more information.
